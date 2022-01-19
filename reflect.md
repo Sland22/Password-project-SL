@@ -1,0 +1,1 @@
+This was one of my favoirte projects to code in both my years of CS. For this project i better learned how to use strings to create a random pass word with random words and numbers. This project also helped me reinforce the skill of using outside lists of data to create something. Thid project taught me how to use a random function to get random results.
